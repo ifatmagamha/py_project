@@ -12,4 +12,4 @@ def main():
     print(f"Capitalized: {capitalize_words(test_string)}")
 
 if __name__ == "__main__":
- main()
+    main()
