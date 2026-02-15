@@ -1,12 +1,12 @@
 [project]
-name = "package-creation"
+name = "ifatmagamha-package-creation"
 version = "0.1.0"
-description = ""
+description = "A simple Python package for string manipulation operations"
 authors = [
     {name = "ifatmagamha",email = "gamhaif@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.8"
 dependencies = [
     "pytest (>=9.0.2,<10.0.0)",
     "pytest-cov (>=7.0.0,<8.0.0)",
